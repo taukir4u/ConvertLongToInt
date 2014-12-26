@@ -1,0 +1,6 @@
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\bin\Debug\ConvertLongToInt.exe.config
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\bin\Debug\ConvertLongToInt.exe
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\bin\Debug\ConvertLongToInt.pdb
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\obj\Debug\ConvertLongToInt.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\obj\Debug\ConvertLongToInt.exe
+C:\Users\PC21\Desktop\ConvertLongToInt\ConvertLongToInt\obj\Debug\ConvertLongToInt.pdb
